@@ -12,4 +12,4 @@ Essa abordagem me ajudará a fornecer insights valiosos para a operação, garan
 # Estrutura do Repositório
 Veja os dados utilizados : 
 ![Dados Sprint 07 - arquivo I CSV](https://github.com/Angelaidt/Sprint-07---An-lise-para-empresa-de-aplicativos-de-carro-/commit/6f2bda1b2d489aef18d1fb5e49975918fe56cc1f)
-![Dados Sprint 07 - arquivo II CSV]()
+![Dados Sprint 07 - arquivo II CSV](https://github.com/Angelaidt/Sprint-07---An-lise-para-empresa-de-aplicativos-de-carro-/blob/main/Sprint%2007%20-arquivo%20II.csv)
