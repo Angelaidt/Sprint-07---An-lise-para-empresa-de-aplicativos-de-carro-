@@ -10,4 +10,4 @@ Essa abordagem me ajudará a fornecer insights valiosos para a operação, garan
 
 
 # Estrutura do Repositório
-
+Veja os dados utilizados : ![Dados Sprint 07 - arquivo CSV]()
