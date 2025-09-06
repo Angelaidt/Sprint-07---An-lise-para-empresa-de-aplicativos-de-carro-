@@ -1,6 +1,6 @@
 # Sprint 07 - Projeto 07 de 17   BootCamp TripleTen de Ciências de Dados
 
-![Ilustração de um celular com aplicativo de transporte]()
+![Ilustração de um celular com aplicativo de transporte](https://github.com/Angelaidt/Sprint-07---An-lise-para-empresa-de-aplicativos-de-carro-/blob/main/Imagem%20II%20-%20Aplicativo%20de%20carro.png)
 
 Em meu trabalho como analista, estou focada em identificar padrões e entender as preferências dos passageiros em um novo mercado. Meu objetivo é ir além dos números, investigando a influência de fatores externos, como o clima, na frequência das viagens.
 
