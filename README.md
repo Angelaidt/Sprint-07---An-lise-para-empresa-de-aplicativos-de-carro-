@@ -1,4 +1,4 @@
-# Sprint 07 - Projeto 07 de 17   BootCamp TripleTen de Ciências de Dados
+# Sprint 07 - Projeto 07/17   BootCamp TripleTen de Ciências de Dados
 
 ![Ilustração de um celular com aplicativo de transporte](https://github.com/Angelaidt/Sprint-07---An-lise-para-empresa-de-aplicativos-de-carro-/blob/main/Imagem%20II%20-%20Aplicativo%20de%20carro.png)
 
