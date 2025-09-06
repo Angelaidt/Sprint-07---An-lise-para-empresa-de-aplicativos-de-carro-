@@ -16,3 +16,5 @@ Veja os dados utilizados :
 
 
 # 🚀 Tecnologias
+📄 Bibliotecas: Pandas....preencher
+⚡️ Jupyter Notebook
