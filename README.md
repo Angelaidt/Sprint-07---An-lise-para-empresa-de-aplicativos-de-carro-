@@ -1,6 +1,6 @@
 # Sprint 07 - Projeto 07 de 17   BootCamp TripleTen de Ciências de Dados
 
-
+![Ilustração de um celular com aplicativo de transporte]()
 
 Em meu trabalho como analista, estou focada em identificar padrões e entender as preferências dos passageiros em um novo mercado. Meu objetivo é ir além dos números, investigando a influência de fatores externos, como o clima, na frequência das viagens.
 
