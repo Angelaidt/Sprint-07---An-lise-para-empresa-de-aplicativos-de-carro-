@@ -12,9 +12,10 @@ Essa abordagem me ajudará a fornecer insights valiosos para a operação, garan
 # Estrutura do Repositório
 Veja os dados utilizados : 
 
-![Dados Sprint 07 - arquivo I CSV]()
+![Dados Sprint 07 - arquivo I CSV](https://github.com/Angelaidt/Sprint-07-Analise-App-Transporte/blob/main/sprint07-arquivo-I.csv
+)
 
-![Dados Sprint 07 - arquivo II CSV]()
+![Dados Sprint 07 - arquivo II CSV](https://github.com/Angelaidt/Sprint-07-Analise-App-Transporte/blob/main/sprint07-arquivo-II.csv)
 
 
 # 🚀 Tecnologias
