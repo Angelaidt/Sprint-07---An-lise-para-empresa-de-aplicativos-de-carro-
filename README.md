@@ -17,6 +17,8 @@ Veja os dados utilizados :
 
 ![Dados Sprint 07 - arquivo II CSV](https://github.com/Angelaidt/Sprint-07-Analise-App-Transporte/blob/main/sprint07-arquivo-II.csv)
 
+![Dados Sprint 07 - arquivo III CSV](https://github.com/Angelaidt/Sprint-07-Analise-App-Transporte/blob/main/sprint07-arquivo-III.csv)
+
 
 # 🚀 Tecnologias
 📄 Bibliotecas: Pandas....preencher
