@@ -21,7 +21,12 @@ Veja os dados utilizados :
 
 
 # 🚀 Tecnologias
-📄 Bibliotecas: Pandas....preencher
+📄 Bibliotecas: 
+* Pandas
+* Matplotlib 
+* Seaborn 
+* Numpy 
+* Scipy 
 
 ⚡️ Jupyter Notebook
 
