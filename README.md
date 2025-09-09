@@ -24,5 +24,6 @@ Veja os dados utilizados :
 📄 Bibliotecas: Pandas....preencher
 
 ⚡️ Jupyter Notebook
+
 ⚡️ VsCode
 
